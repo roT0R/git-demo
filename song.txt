@@ -8,4 +8,8 @@ sword and spear
 wall of shields
 
 ding strong
+<<<<<<< HEAD
 on this their chosen battlefield/////]]
+=======
+on this their chosen battlefield///
+>>>>>>> aa8c9f42b6aeca2c7568309b02eed2b627a1492b
